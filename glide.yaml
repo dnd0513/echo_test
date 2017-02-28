@@ -1,0 +1,4 @@
+package: echo_test
+import:
+- package: github.com/labstack/echo
+  version: v3.0.3
